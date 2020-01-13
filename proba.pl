@@ -3,7 +3,6 @@ use strict;
 use warnings;
 use diagnostics;
 
-
 sub prob {
 	my @array = ('U','D');
 	my @sequence = ();
